@@ -1,0 +1,13 @@
+# This file lists files and directories to ignore when packaging the extension.
+
+# Ignore node_modules/
+node_modules/
+
+# Ignore build directories
+build/
+
+# Ignore logs
+*.log
+
+# Ignore any temporary files
+*.tmp
